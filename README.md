@@ -7,7 +7,9 @@ Homebrew Atari 2600 games:
 
 - Anguna<br />
 - Robo-Ninja Climb<br />
+- Runty's Revenge<br />
 - Solar Plexus<br />
+- Turtle Bay<br />
 
 
 *Note: The ROMs listed here have been approved for free distribution on this site/project only. If you want to share it, please contact owner/developer. Thanks!
