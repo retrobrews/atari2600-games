@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <gameList>
+   <game>
+     <path>./anguna.bin</path>
+     <name>Anguna 2600</name>
+     <desc>This time, you are on a quest to defeat the Goblin King. Like last time, you got captured early on, and must battle your way through 5 dungeons before confronting him!</desc>
+     <image>./anguna.png</image>
+     <rating>0</rating>
+     <releasedate>20160524T000000</releasedate>
+     <developer>Nathan Tolbert</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Anguna 2600</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./hauntedbakery.bin</path>
+     <name>Haunted Bakery</name>
+     <desc>You play as a giraffe and crocodile named  Emelie and Maxwell, respectively. They have somehow found themselves in a haunted bakery and decided to try to photograph some ghosts! You can switch between the two characters by flipping the Select switch. WARNING: This game makes use of flickering graphics. Please be careful if you are sensitive to that sort of thing.</desc>
+     <image>./hauntedbakery.png</image>
+     <rating>0</rating>
+     <releasedate>20180128T000000</releasedate>
+     <developer>Denebola Interactive (Phano)</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Emelie and Maxwell in The Case of the Haunted Bakery [v.1.0]</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./kellykangaroo.bin</path>
+     <name>Kelly Kangaroo</name>
+     <desc>Kelly the kangaroo is enjoying a lovely picnic date with Rosie the rabbit in the picturesque Mossy Valley when - Oh no!  The mad scientist Contemptus Mundy, always bitter and jealous of the happy people living on Gaia Gaia Island, has kidnapped Rosie and locked her away in his motherbase in the clouds! It's up to you to help Kelly save her sweetheart before it's too late and that vile Contemptus whisks her away to the stars.</desc>
+     <image>./kellykangaroo.png</image>
+     <rating>0</rating>
+     <releasedate>20180309T000000</releasedate>
+     <developer>Denebola Interactive (Phano)</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Kelly Kangaroo [v.0.6]</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./roboninjaclimb.bin</path>
+     <name>Robo-Ninja Climb</name>
+     <desc>Robo-Ninja is at it again, this time practicing his climbing and jumping skills before setting out to save the world. In this NES game, you climb and dodge spikes, navigating 5 levels of obstacles.</desc>
+     <image>./roboninjaclimb.png</image>
+     <rating>0</rating>
+     <releasedate>20171122T000000</releasedate>
+     <developer>Nathan Tolbert</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Robo-Ninja Climb</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./runtysrevenge.bin</path>
+     <name>Runty's Revenge</name>
+     <desc>It is a rom made about my dog Runty and my Wife chasing him around.</desc>
+     <image>./runtysrevenge.png</image>
+     <rating>0</rating>
+     <releasedate>20181015T000000</releasedate>
+     <developer>Guillermo Gee</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Runty's Revenge</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./solarplexus.bin</path>
+     <name>Solar Plexus</name>
+     <desc>What starts out as a routine hunt for salvage in the far reaches of the galaxy turns into a white-knuckle fight for survival in Solar Plexus, the first Atari 2600 release by independent game developer JessCREATIONS*, Co. It'll take sharp reflexes to keep your starskimmer full of fuel and away from the wildly unpredictable artificial sun which threatens to make every move your last! The Solar Plexus increases in speed and mutates into new, more dangerous forms as you continue to play. If one fiery orb bouncing around the screen was hard enough for you to handle, just wait until you have to deal with two, or even three of them! Only the best players will last long enough to witness the final form of this relentless foe.</desc>
+     <image>./solarplexus.png</image>
+     <rating>0</rating>
+     <releasedate>20051231T000000</releasedate>
+     <developer>Jess Ragan</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Solar Plexus</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./turtlebay.bin</path>
+     <name>Turtle Bay</name>
+     <desc>Turtle Bay is a very simple Atari 2600 game.  You are a turtle which needs to eat food and escape a bird to advance closer to the ocean. As you can expect it is a very simple arcade game.</desc>
+     <image>./turtlebay.png</image>
+     <rating>0</rating>
+     <releasedate>20180827T000000</releasedate>
+     <developer>Unlink2</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Turtle Bay</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./winterfortress.bin</path>
+     <name>Winter Fortress</name>
+     <desc>Six pesky little penguin chicks have run off and gotten lost in the mysterious ruins. You are the only one brave enough to rescue them! Roll snowballs by holding down the fire button and letting go to smash them against the iceblocks. Only larger snowballs will break the blocks. But don't get too close; this ice is so cold, you will be frozen solid if you touch it! If this wasn't bad enough, all this activity has awakened the old sentinals. Avoid their eerie mechanical movements by throwing snowballs at them. But be quick about it because they will start rebuilding their fortress with new blocks! If you can save six chicks without getting frozen, you are rewarded with an extra penguin</desc>
+     <image>./winterfortress.png</image>
+     <rating>0</rating>
+     <releasedate>20180128T000000</releasedate>
+     <developer>Denebola Interactive (Phano)</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Winter Fortress [v.0.5]</genre>
+     <players>1</players>
+   </game>
+ </gameList>
