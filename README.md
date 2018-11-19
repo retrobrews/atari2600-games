@@ -2,8 +2,6 @@
 
 Homebrew Atari 2600 games:
 
-***** WIP *****
-
 - Anguna<br />
 - Haunted Bakery<br />
 - Kelly Kangaroo<br />
