@@ -1,0 +1,9 @@
+Runty's Revenge (Runty's Revenge.bas.bin)
+by Guillermo Gee
+2018/10/15
+
+An Atari 2600 game. It is a rom made about my dog Runty and my Wife chasing him around. This game must be played with an Atari 2600 emulator.
+
+
+Download and Play in Stella (Atari Emulator) or any Atari 2600 emulator. 
+https://squidsee.itch.io/runty

@@ -1,0 +1,38 @@
+Emelie and Maxwell in The Case of the Haunted Bakery (HauntedBakery_V1_0_PAL_ROM.bas.bin)
+by Denebola Interactive (Phano)
+Updated Jan 28, 2018
+
+WARNING: This game makes use of flickering graphics. Please be careful if you are sensitive to that sort of thing.
+
+This is my entry for Short N Sweet Jam 2017. 
+You play as a giraffe and crocodile named  Emelie and Maxwell, respectively. They have somehow found themselves in a haunted bakery and decided to try to photograph some ghosts!
+You can switch between the two characters by flipping the Select switch. (F1 in Stella) 
+Maxwell carries a radiometer to detect any specters in the area and it can be activated by holding Fire.(Space in Stella) The faster it spins, the closer a ghost is! 
+Emelie is the photographer, and when she walks up to an object with her camera, by holding Fire, the screen will shift into focusing mode. Line up the images and snap a photo by pressing Fire again.
+There is only enough film in the camera for five shots. That's how many ghosts there are as well! When Emelie runs out of film, she can go back to the truck in front of the bakery and develop the film to see how many ghosts you helped to capture.
+Thanks so much for playing!
+
+Phano
+
+
+Known flaws: 
+The radiometer can be unreliable in one particular room
+
+
+Possible plans for the future:
+Better sound effects
+Randomized ghosts
+Moving ghosts
+
+
+You will need an emulator to play it such as Stella ot Javatari.
+https://stella-emu.github.io/
+http://javatari.org/
+
+
+Or you can save it onto a Harmony Cart and play it on actual hardware!
+http://harmony.atariage.com/Site/Harmony.html
+
+
+
+https://denebola-interactive.itch.io/emelie-and-maxwell-in-the-case-of-the-haunted-bakery

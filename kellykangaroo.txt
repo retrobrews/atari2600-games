@@ -1,0 +1,51 @@
+Kelly Kangaroo (KellyKangaroo_NTSC_0.6.bin)
+by Denebola Interactive (Phano)
+on 2018/03/09
+
+
+Kelly the kangaroo is enjoying a lovely picnic date with Rosie the rabbit in the picturesque Mossy Valley when - Oh no!  
+The mad scientist Contemptus Mundy, always bitter and jealous of the happy people living on Gaia Gaia Island, has 
+kidnapped Rosie and locked her away in his motherbase in the clouds! It's up to you to help Kelly save her sweetheart 
+before it's too late and that vile Contemptus whisks her away to the stars. 
+
+Use the joystick to make Kelly hop to the left or right, and hold the fire button to perform a much higher jump to reach 
+her goal. Contemptus Mundy's mothership has one weakness in it's anti affection forcefields and that is the prisoner's 
+favorite food. In this case, strawberries! Kelly must collect six strawberries scattered around the obstacle course in 
+order to free Rosie from her lame and apathetic captor.
+
+Kelly will face many dangers along the way, from angry bees, carniverous flowers, agressive bats and automatic flying 
+saucer drones. Most can be knocked out simply by jumping on them, but some are especially treacherous... watch out! If 
+Kelly falls victim to these baddies, she will be knocked back several screens, losing precious time.
+
+The left difficulty switch will select how much time is on the clock before the sexual frustration powered engines are 
+activated. New players should set Left Difficulty to B and see fast you can reach the end. Players looking for more of 
+a challenge can set the switch to A for a more intense time constraint.
+
+This game is safe for work.
+
+Known issues in version 0.3:
+Sometimes the collision detection can be a bit fiddly, especially with springs.
+When playing on actual hardware with a Harmony cart, or with the realistic video settings in the emulator turned on, 
+the screen will sometimes roll and flicker when Kelly touches certain walls or enters a new screen. Most emulators 
+are more forgiving by default and a classic CRT seems to dampen the effect.
+Kelly will sometimes treat the score timer as solid ground if an enemy is making sound. It's really weird.
+Only NTSC color support so far.
+
+Changes in version 0.4:
+Enemies slightly less aggressive
+Enemies don't send you so far back
+No longer a default score font
+
+Changes in version 0.5:
+Flower no longer sends you back to the start
+Added  a quick "get all six strawberries" message
+Fine tuned the bat just a little more
+
+Changes in version 0.6:
+Cuter jump sounds
+Included source code! But it's a mess, proceed with caution.
+
+
+Thanks for playing!
+
+https://denebola-interactive.itch.io/kelly-kangaroo

@@ -1,0 +1,22 @@
+Winter Fortress (WinterFortress_ROM_0.5.bin)
+by Denebola Interactive (Phano)
+Updated Jan 28, 2018
+
+
+This is an early, pre-cartridge version of the game available for testing.
+
+Six pesky little penguin chicks have run off and gotten lost in the mysterious ruins. 
+You are the only one brave enough to rescue them! Roll snowballs by holding down the 
+fire button and letting go to smash them against the iceblocks. Only larger snowballs 
+will break the blocks. But don't get too close; this ice is so cold, you will be frozen 
+solid if you touch it! If this wasn't bad enough, all this activity has awakened the old 
+sentinals. Avoid their eerie mechanical movements by throwing snowballs at them. But be 
+quick about it because they will start rebuilding their fortress with new blocks! 
+If you can save six chicks without getting frozen, you are rewarded with an extra penguin
+
+Right Difficulty toggles flashing effects. Set to A to turn it off and set to B to leave it on.
+
+Black and White switch toggles color mode. Color for NTSC and B/W for PAL60
+
+
+https://denebola-interactive.itch.io/winter-fortress

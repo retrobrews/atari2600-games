@@ -1,0 +1,19 @@
+Anguna 2600
+
+Another Anguna adventure, for the Atari 2600
+
+Anguna 2600 is a sort of sequel to the original Anguna, for the Atari 2600. 
+This time, you are on a quest to defeat the Goblin King. Like last time, 
+you got captured early on, and must battle your way through 5 dungeons 
+before confronting him!
+
+Anguna 2600 contains features not found in most Atari 2600 games, including:
+
+    A large overworld with multiple dungeons
+    An in-game inventory screen with a built-in world map
+    An experience points system that allows you to gain levels
+    The ability to save your progress with a password or using an AtariVox or SaveKey
+    Multiple items, powerups, and keys
+
+
+http://www.bitethechili.com/anguna2600/
