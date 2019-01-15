@@ -13,6 +13,54 @@
      <players>1</players>
    </game>
    <game>
+     <path>./dkarcade2600.bin</path>
+     <name>DK Arcade 2600</name>
+     <desc>Save Lady Pauline! Points are awarded for jumping over obstacles, destroying objects with the hammer, completing levels and collecting various items. This playable demo features all four levels but will end after the rivet level (Level 4).</desc>
+     <image>./dkarcade2600.png</image>
+     <rating>0</rating>
+     <releasedate>20141016T000000</releasedate>
+     <developer>Byte Knight</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>DK Arcade 2600 (playable demo)</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./emr.bin</path>
+     <name>Evil Magician Returns</name>
+     <desc>Adventure-type game. The premise is that his dragons are now dead, so he and his apprentice have returned and captured the golden chalice. The Evil Magician (red wizard) has the ability to shoot fireballs, his apprentice (white wizard) does not.  You too have the ability to shoot fireballs after you've acquired the staff. The red wizard tends to guard certain items,  while the white wizard avoids them.  You've also brought a backpack with you this time so you can carry multiple items. The game has no sound...</desc>
+     <image>./emr.png</image>
+     <rating>0</rating>
+     <releasedate>20090607T000000</releasedate>
+     <developer>Byte Knight</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Evil Magician Returns</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./emrii.bin</path>
+     <name>Evil Magician Returns II</name>
+     <desc>In Evil Magician Returns II you must reclaim the chalice from the Evil Magician and his apprentice. There are now four castles to explore, complete with mazes and secret passageways. Home castle gate is now open - why should you have to open your own castle? You can only carry one item like Adventure. The staff also acts as a magnet to attract objects by holding down the button. A new hideous Dragon created by the Evil Magician guards the chalice on Levels 2 and 3. And many more...</desc>
+     <image>./emrii.png</image>
+     <rating>0</rating>
+     <releasedate>20161126T000000</releasedate>
+     <developer>Byte Knight</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Evil Magician Returns II</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./halo2600.bin</path>
+     <name>Halo 2600</name>
+     <desc>At first you have the player battling through a series of rooms. You had to kill all the enemies before it would unlock the walls and let you move to the next room. After defeating the boss, you will enter the legendary mode, so that if you beat the game you can play all the way through it again with a few parameters tweaked to make it much tougher.</desc>
+     <image>./halo2600.png</image>
+     <rating>0</rating>
+     <releasedate>20100801T000000</releasedate>
+     <developer>Ed Fries</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Halo 2600</genre>
+     <players>1</players>
+   </game>
+   <game>
      <path>./hauntedbakery.bin</path>
      <name>Haunted Bakery</name>
      <desc>You play as a giraffe and crocodile named  Emelie and Maxwell, respectively. They have somehow found themselves in a haunted bakery and decided to try to photograph some ghosts! You can switch between the two characters by flipping the Select switch. WARNING: This game makes use of flickering graphics. Please be careful if you are sensitive to that sort of thing.</desc>
