@@ -2,14 +2,18 @@
 
 Homebrew Atari 2600 games:
 
-- Anguna<br />
-- Haunted Bakery<br />
-- Kelly Kangaroo<br />
-- Robo-Ninja Climb<br />
-- Runty's Revenge<br />
-- Solar Plexus<br />
-- Turtle Bay<br />
-- Winter Fortress<br />
+  - <b>Anguna</b> by Nathan Tolbert
+ - <b>DK Arcade 2600</b> by Byte Knight
+ - <b>Evil Magician Returns</b> by Byte Knight
+ - <b>Evil Magician Returns II</b> by Byte Knight
+ - <b>Halo 2600</b> by Ed Fries
+ - <b>Haunted Bakery</b> by Denebola Interactive (Phano)
+ - <b>Kelly Kangaroo</b> by Denebola Interactive (Phano)
+ - <b>Robo-Ninja Climb</b> by Nathan Tolbert
+ - <b>Runty's Revenge</b> by Squidsee (Guillermo Gee)
+ - <b>Solar Plexus</b> by Jess Ragan
+ - <b>Turtle Bay</b> by Unlink2
+ - <b>Winter Fortress</b> by Denebola Interactive (Phano)
 
 
 *Note: The ROMs listed here have been approved for free distribution on this site/project only. If you want to share it, please contact owner/developer. Thanks!
