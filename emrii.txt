@@ -1,0 +1,168 @@
+EMR II - Evil Magician Returns upgraded to DPC+! (EMRII32.bin)
+by Byte Knight, 
+11/26/16
+
+http://atariage.com/forums/topic/201071-emr-ii-evil-magician-returns-upgraded-to-dpc/
+
+
+Hey guys,
+
+I know you're getting sick of my Adventure games, but I decided to update EMR to DPC+. 
+EMR II is a truer vision of an Adventure sequel that I had in mind when I was thinking up EMR, but didn't have the knowledge or the resources. 
+I still don't have any knowledge, but I've got better resources thanks to batari basic's DPC+ kernel!
+
+EMR II has the same basic premise as EMR in which you must reclaim the chalice from the Evil Magician and his apprentice. Here are some differences between EMR II & EMR:
+
+• Upgraded sprites and background graphics thanks to PacManRed!
+• Some mazes are from Adventure with new twists, some mazes are new.
+• Dark mazes are back.
+• There are now four castles to explore, complete with mazes and secret passageways.
+• Home castle gate is now open - why should you have to open your own castle?
+• The bat is back as the great randomizer of items.
+• You can only carry one item like Adventure.
+• The staff also acts as a magnet to attract objects by holding down the button.
+• You can attract the staff to yourself by holding down the fire button.
+• The wizards cast spells that make you go half speed.
+• The Evil Magician and his apprentice have the ability to raise each other from the dead when in the same room as each other.
+• A new hideous Dragon created by the Evil Magician guards the chalice on Levels 2 & 3.
+
+
+Full release with text manual 11/26/16!
+
+Attached File  EMRII32.bin   32KB   http://atariage.com/forums/index.php?app=core&module=attach&section=attach&attach_id=479234
+Attached File  EMRIImanual.pdf   47.7KB   http://atariage.com/forums/index.php?app=core&module=attach&section=attach&attach_id=476370
+
+Thanks to PacManRed for the graphics, RevEng for the titlescreen and technical help, AtariBrian for alpha testing and TheGoldenBand for the titlescreen music!
+
+
+
+HOW TO PLAY
+On your first Adventure, you laid waste to the Evil
+Magician's three dragons and reclaimed the Enchanted
+Chalice, bringing peace to your Kingdom. Enraged, the
+Evil Magician has returned and stolen the chalice again,
+plunging your Kingdom back into darkness. With his
+dragons annihilated, the Evil Magician and his apprentice
+now personally guard the chalice. Rumor has it that the
+Evil Magician has created an even more hideous creature
+to guard the chalice as a line of last-defense.
+As in your last Adventure, the object of the game is to
+rescue the Enchanted Chalice and return it to the Gold
+Castle walls. Once again, this will not be an easy quest.
+The Evil Magician (red wizard) and his apprentice (grey
+wizard) can cast spells that make you weak and
+susceptible to attack. Their touch is deadly, but all hope
+is not lost. They are vulnerable to attack by the magical
+Fire Staff— swords will not help you in this Adventure.
+The Evil Magician will succumb to two hits from the staff
+and his apprentice needs only one hit. They may not stay
+dead however— they can use their spells of resurrection
+to revive each other if a live wizard comes in close
+proximity to a dead one.
+There are four castles in your Kingdom: the Gold Castle,
+the White Castle, the Red Castle, and the Grey Castle.
+Your home castle, the Gold Castle, is already open, but
+the other castles need to be opened with the proper Key.
+Inside the castles are multiple rooms, some of which are
+dark and can only be explored by torchlight. The castles
+are separated by the familiar labyrinths, but your old
+pathways will just lead to dead-ends.
+Scattered throughout the kingdom are certain items to
+help you in your search for the Enchanted Chalice. To
+pick up an item, simply touch it, and you can only carry
+one item at a time. To open any castle, touch the castle
+gate while in possession of the proper key. The white
+castle key will open up the White Castle, the red dragon
+key will open up the Red Castle, and the grey skull key
+will open up the Grey Castle.
+
+
+CONSOLE CONTROLS
+Once the titlescreen is done scrolling, which you can skip
+by hitting the joystick button, select the skill level you wish
+to play by pushing the game select switch or moving the
+joystick.
+When the left difficulty switch is in the A (pro) position,
+you will get five lives. When it is in the B (amateur)
+position, you will get unlimited lives. You lives are
+displayed at the bottom of the screen.
+To begin play push the red controller button.
+If you are touched by one of the wizards or creatures, you
+will lose a life. Just push the red controller button and
+you will be "reincarnated" and placed back in front of the
+Golden Castle. Unfortunately, any wizards that you have
+killed will also be reincarnated.
+
+SKILL LEVELS
+Level 1: This Kingdom is the easiest skill level. There is
+not a bat to steal your items and no creature guarding the
+Golden Chalice. The Fire Staff is conveniently located
+directly above you in the Gold Castle. Use this level to
+familiarize yourself with the mazes.
+
+Level 2: This Kingdom has items that are in fixed
+positions but more difficult to find. The great thief, the
+bat, is ever-present, and the Evil Magician’s latest
+hideous invention guards the Golden Chalice.
+Level 3: This Kingdom is the hardest and has items in
+random positions. It is otherwise similar to Level 2.
+
+ITEMS
+Fire Staff: This magical staff is your most important
+possession and is the only weapon you can use against
+the wizards. Push the fire button to hurl a fireball at them.
+The staff can also attract objects by holding down the fire
+button. Likewise, you can attract the staff to yourself by
+holding down the fire button.
+
+Red Key (Dragon Key): This key opens the Red Castle
+with the Dragon Gate.
+
+White Key (Castle Key): This key opens the White
+Castle’s gate.
+
+Grey Key (Skull Key): This key opens the Grey Castle
+with the Skull Gate.
+
+Enchanted Chalice: This is the source of the Evil
+Magician’s power. It is said that this is the only object that
+can ultimately destroy the Evil Magician. Return in to
+your castle walls and find out!
+
+ENEMIES:
+The Bat: This thief loves to take items from you at the
+most inopportune times. A fireball from the staff won’t
+hurt him, but it may make him drop whatever he’s
+carrying.
+
+The Apprentice (Grey Wizard): Corrupted by the Evil
+Magician, he does the dirty-work for him. It takes one
+fireball from the Fire Staff to kill him. He can cast
+weakness-causing spells that slow you down, and revival
+spells to bring his master back to life.
+
+Evil Magician (Red Wizard): Here is the mastermind
+behind the heist of Enchanted Chalice and all of the
+chaos that followed. It takes two fireballs from the Fire
+Staff to kill him. He can cast the same spells as his
+apprentice.
+
+Chalice Guardian: Little is known about this
+gruesome creature, as few have seen it and lived
+to tell about it. Rumored to be impervious to
+fireballs.
+
+STRATEGIES
+• Try to take out the wizards in the rooms below
+your castle where you’ll have more room to
+maneuver.
+• If both wizards are in the same room as you,
+RUN - even if you have the staff!
+• The kingdom is full of secret exits - learn to use
+them to escape the wizards and the bat.
+• Having trouble grabbing the chalice from its
+guardian? Use the staff from above or below to
+attract it towards you. Or use the bat’s thievery
+to your advantage…
+• Your home castle room is safe from intruders for
+the most part.

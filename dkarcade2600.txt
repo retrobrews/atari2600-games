@@ -1,0 +1,30 @@
+DK Arcade 2600 (DK20141011BcDemoE.bin)
+by Byte Knight, Thu Oct 16, 2014 6:10 AM.
+
+http://atariage.com/forums/topic/222281-dk-arcade-2600-playable-demo/
+http://atariage.com/forums/topic/216037-dk-arcade-2600-new-4-level-demo/
+
+
+The playable demo below features all four levels but will end after the rivet level (Level 4).  
+We suggest turning Phosphor Effect on in Stella (Command-p) to help with the flicker up top.
+Let us know your thoughts and post your high scores!
+ 
+10/16/14 Update to work with Harmony Encore!
+ 
+
+• You can now play as Pauline (created for the 2 women on AtariAge!).
+• Japanese and US level order selection for release version.
+• Titlescreen to select player / level order.
+• By popular demand, Mario moves quicker up and down ladders.
+• Fireballs descend ladders quicker.
+• Difficulty level increases.
+• Alarm sound when timer drops below 100.
+• Numerous sound updates and bug fixes.
+
+
+Here's the easy version:
+Attached File  DK20141011BcDemoE.bin   32KB   http://atariage.com/forums/index.php?app=core&module=attach&section=attach&attach_id=361934
+And here's the version with level difficulty increases:
+Attached File  DK20141011BcDemoH.bin   32KB   http://atariage.com/forums/index.php?app=core&module=attach&section=attach&attach_id=361935
+ 
+Thanks to RevEng and Bogax for technical help, and Atari Brian for beta-testing.

@@ -1,0 +1,108 @@
+Halo for the 2600 (Halo2600_Final.bin)
+Ed Fries
+2010/08/01
+
+
+Hi guys, here's the story of how this game came about:
+(note - I wrote this description for a general audience. sorry that you guys will already know the stuff I'm trying to explain below)
+
+Last fall I was in Philadelphia, speaking at a small video game conference. On the way to the airport I was talking about writing games 
+for the Atari 800 in the early 80s and someone suggested that I read the book "Racing the Beam" about programming the Atari 2600. 
+It sounded cool so I did.
+
+After reading the book I thought it might be fun to play around with writing some of my own code for the machine. I hadn't written 6502 
+assembler in almost 30 years but it turns out it's pretty easy to pick up again since there are so few instructions. I wasn't sure what 
+to write so I created a little Master Chief from Halo and made him run around the screen. Then I created an Elite for him to shoot at. 
+At this point it wasn't my intention to make a full game. I was just screwing around.
+The thing you need to realize about the Atari 2600 is that it is an incredibly limited machine. It has only 128 bytes of RAM and without 
+bank switching the maximum program size is just over 4000 bytes. There are just two 8 pixel wide monochrome sprites, two one pixel bullets, 
+a "ball" and a 40 pixel wide background (and even that is exaggerating...). There is no memory to store the screen image like any modern 
+console or PC, instead it has to be drawn a line at a time by changing the values of the registers that control the sprites and background. 
+The processor is so slow that only 76 clock cycles occur while a line of the screen is being drawn, and the simplest 6502 instructions take 
+at least 2 clock cycles. So just to draw an image of the Master Chief is pretty tough. To create a complete game while living within these 
+constraints is much harder.
+
+Fortunately the Atari homebrew community has created a wealth of resources for the wanna be Atari 2600 programmer. There is a fine assembler 
+and several excellent emulators that include all the debugging features any programmer would want. There are also hundreds of pages of 
+example code and documentation to aid you on your quest.
+As I became more familiar with the machine I thought it might be possible to make something that was actually fun to play. I also ran into 
+some fans of classic games at the Game Developers Conference in March and they encouraged me to keep going and try to make a finished game. 
+
+At first I had the player battling through a linear series of rooms. You had to kill all the enemies before it would unlock the walls and 
+let you move to the next room. As you can imagine, this got dull pretty quickly. I was doing it this way because it was relatively easy on 
+the Atari 2600 but what if, instead, I could make a 64 room map the player had to explore, kind of like the old atari game Adventure? 
+To implement this would require that I make an "asymmetric playfield" so that some rooms might have a wall on one side but not on the other. 
+It turns out that's pretty tricky to do on the 2600, at least while you are trying to drawn everything else you want to draw, but I managed 
+to get it working.
+
+I was still worried there wouldn't be enough variety so I created a completely separate kind of level where you were driving a Warthog 
+(jeep from Halo) across a rolling terrain while Banshees circled overhead and dropped bombs. But as I progressed on this I realized it had 
+two problems: First it was too large. I had given myself the limit of 4K for the entire game and my Warthog section was over 1K by itself and 
+it wasn't complete. Second, it wasn't fun. So I cut the Warthog level and tried to focus on making the core game more fun.
+
+To add variety I divided the map into 4 "zones": outdoor, covenant base, ice world, and final boss area. Each had a unique look and some unique 
+enemies. I also played with the atari's ability to stretch and duplicate sprites to create some further surprises for the player. Then I added 
+some pickups the player could find to help them on the way.
+
+At the end of the map I wanted to have a Boss encounter. This posed several problems. First, bosses are supposed to be BIG. How to get that 
+feeling across in my game? Second, it had to be exciting. How could I make the boss encounter different from the rest of the game? I solved 
+the first problem by writing a special Boss kernel for the final room. The rest of the game has what is called a "two line kernel" which means 
+that all pixels on the screen are two scan lines high. What if I switched to a one line kernel for the Boss encounter? That would make the Master
+Chief half as tall which would you feel like you just walked into a big room and the camera zoomed out to be able to show the boss. Of course this 
+meant I had to do all the processing in one line (only 76 cycles...) instead of two, but I had written the Warthog section with a one line kernel 
+so I knew it was possible for me to do it.
+
+To make the encounter different I made a single large boss that moved up and down the screen. He uses the maximum sprite width to be wide and is 
+24 pixels tall compared to 12 pixels for my other sprites. I also wanted him to be able to shoot 3 missiles at once. Of course that was a problem 
+because the atari only supports 2 missiles and I need one for the Master Chief to be able to shoot back. I solved this by "multiplexing" the enemy 
+missiles which basically means if there are 3 missiles on the screen I draw one each frame for three frames. That has the effect of making them 
+flicker a bit but it's not bad for fast moving missiles. The great thing was once this was working for the Boss I could also use it in the rest 
+of the game. Up to this point only one enemy could fire at any time because there was only one bullet for them to share, but now they could each 
+have their own virtual bullet and fire whenever they wanted to.
+
+At this point the rough outlines of the game were complete but it needed a lot of polish. For one thing it was brutally difficult. One of my 
+playtesters convinced me to add three lives instead of the original one. Another convinced me that running into trees shouldn't kill you, and another 
+finally got me to make the walls not kill you if you accidentally ran into them. I added the title screen at this time but had some pretty spastic 
+stars which another playtester finally convinced me to clean up. I also added sound effects and a bit of the Halo 2 theme song on the title screen.
+
+All of these changes were made extra difficult because I was completely out of space. Every time I wanted to fix a bug or add a new sound effect 
+I had to go back through the code and rewrite some part of it to do exactly what it was doing before but with fewer bytes of code. At first there 
+were some pretty easy ways to save space but, as you might imagine, this become more and more difficult when I was staring at something I had 
+already rewritten two or three times before.
+
+When a playtester complained that there was nothing after defeating the boss, I added legendary mode, so that if you beat the game you can play 
+all the way through it again with a few parameters tweaked to make it much tougher.
+
+It's around this time that I discovered the existence of what I call "Magic Land". I was working on a bug with the boss encounter and accidentally 
+found myself completely outside the 64 room map. I was wandering through memory that was never intended to be interpreted as part of the map but 
+the code was doing the best it could to interpret what was being thrown at it. Strange, misshapen monsters attacked me in even stranger ways as I 
+wandered through this bizarre land that I had unintentionally created. I left a bug or two in the final game to allow others to find and explore 
+this strange landscape as I did.
+
+One of the last changes I made has to do with the Atari 2600 HMOVE (horizontal move) register. Basically if you want to reposition a sprite 
+horizontally while the screen is being drawn (something I was doing 3 times on every screen.) you have to store a value into HMOVE. You are 
+supposed to do it as the first thing on a scan line and a side effect of doing it is an ugly black line about an inch wide on the left side 
+of the screen. You'll see those black lines on almost all Atari games. In the old days it was kind of hard to see on a phosphor TV display, 
+but on a modern TV or computer monitor it's quite clear. Some games hide it by having a black background (not something I wanted to do) or by 
+doing it every single line so the entire left side of the screen is black (also not great for the look I wanted), so I had kind of accepted that 
+it was inevitable and had learned to ignore it, but every time I showed the game to someone who wasn't familiar with Atari games, one of the 
+first things they would ask me is "what are those ugly black lines?"
+
+When reading through some documentation I noticed that it was possible to do an "early HMOVE" which involved storing to the HMOVE register a 
+few clock cycles before the beginning of the scan line and that in that case it didn't act the way it was supposed to (things moved in a funny way) 
+but if you could do it exactly on the right cycle (cycle 74 in my case) then the black line wouldn't ever appear on the screen. I wrote a simple 
+test program with ducks moving back and forth on the screen to prove to myself that I could compensate for the crazy behavior caused by this 
+early HMOVE, make the ducks move as I wanted them to, and never have to see that ugly black line. That gave me the confidence to go back into 
+my main kernel and implement the early HMOVE in Halo 2600 to get rid of the black lines for good.
+
+That's pretty much the story. I couldn't have made the game without the incredible resources available on AtariAge.com and the many websites 
+it links to. All the work you see in the game is mine except for some of the sprites which were drawn by Mike Mika who was a great encouragement 
+and aid throughout the process. Chris Charla, Colin Williamson, Tom Russo, Ian Bogost, and Albert Yarusso all helped me by playtesting and by 
+trying to talk sense into me when I was being stubborn about not fixing some glaring issue.
+
+I hope you have as much fun playing Halo 2600 as I had making it.
+
+-Ed Fries 
+
+
+http://atariage.com/forums/topic/166916-halo-for-the-2600-released-at-cge-download-the-game-here/

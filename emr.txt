@@ -1,0 +1,122 @@
+Evil Magician Returns (emr-pal60.bin)
+by Byte Knight
+6/7/09
+
+http://atariage.com/forums/topic/139348-evil-magician-returns-adventure-type-game/
+
+Hi guys,
+
+I've been lurking here for awhile and decided it was time for me to make a game... 
+Adventure has always been one of my favorites, so this game is based on the Evil Magician mentioned in the Adventure manual. 
+The premise is that his dragons are now dead, so he and his apprentice have returned and captured the golden chalice. 
+The Evil Magician (red wizard) has the ability to shoot fireballs, his apprentice (white wizard) does not. 
+You too have the ability to shoot fireballs after you've acquired the staff. The red wizard tends to guard certain items, 
+while the white wizard avoids them. You've also brought a backpack with you this time so you can carry multiple items. 
+Otherwise, it's very similar to Adventure.
+I plan on having 3 levels like Adventure, so this one is somewhere between level 1 and 2 difficulty. 
+I'll probably get rid of the red wizard's fireballs on level 1.
+
+The game has no sound and I'd like to add the original Adventure sounds but I've got no idea how to do this...
+
+Thanks to Batari for making this possible! What do you guys think?
+
+Update 6/7/09
+Here is the latest release along with manual and map:
+
+Attached File  emr10.bin   16KB   http://atariage.com/forums/index.php?app=core&module=attach&section=attach&attach_id=131487
+
+PAL Version here:
+Attached File  emr-pal60.bin   16KB   http://atariage.com/forums/index.php?app=core&module=attach&section=attach&attach_id=204233
+
+Attached File  EMRmanual.pdf   209.8KB   http://atariage.com/forums/index.php?app=core&module=attach&section=attach&attach_id=126423
+
+
+
+HOW TO PLAY
+On your last Adventure many years ago, you slayed the Evil Magician's
+three dragons and reclaimed the Enchanted Chalice, bringing
+peace to your Kingdom. Now, the Evil Magician has returned and
+stolen the chalice back, plunging your Kingdom into darkness. With
+his dragons dead, the Evil Magician and his apprentice now personally
+guard the chalice. Rumor has it that the Evil Magician has
+been creating a new creature even more powerful than his previous
+dragons to guard the chalice as a last defense.
+As in your last Adventure, the object of the game is to rescue the Enchanted Chalice
+and place it inside the Golden Castle where it belongs. Once
+again, this will not be an easy quest. The Evil Magician (red wizard)
+has the ability to cast fireballs. His apprentice (white wizard)
+has not yet learned this skill, but his touch is fatal.
+There are three castles in your Kingdom: the Golden Castle, the
+Gray Castle, and the Skull Castle. Each castle can be opened
+with the proper Key. Inside the Evil Magician's Gray Castle you
+will find multiple rooms. The castles are separated by labyrinths
+which have changed since your last Adventure.
+
+
+ITEMS
+Scattered throughout the kingdom are certain items to help you in your search for the
+Enchanted Chalice. To pick up an item, simply touch it. You will hear a sound that tells
+you that you have picked up that item, and the item will appear in your inventory at the
+bottom of the screen. On this Adventure, you've remembered your satchel so that you
+can carry multiple items.
+
+To open any castle, touch the castle while in possession of the proper key. Like the red
+wizard, you too have the ability to cast fireballs once you've acquired the Fire Staff
+(curved stick). Simply press the red controller button while moving left or right to fire.
+
+
+MAGIC
+The red wizard tends to guard certain items while the white wizard likes to avoid them.
+This can be used to your advantage when a wizard is chasing you.
+Occasionally, the white wizard will cast a spell on an item to make it deadly to the touch.
+The white wizard has to be nearby an item in order for his spell to work. A clue that an
+item may be cursed is when it shifts position slightly on the screen.
+Like the original Adventure, a secret message awaits you.
+
+
+CONSOLE CONTROLS
+
+Choose the skill level you wish to play by depressing the game select switch. To begin
+play push the red controller button.
+If you get shot or touched by one of the wizards or creatures, you
+will lose a life. Just push the red controller button and you will be
+"reincarnated" and placed back in front of the Golden Castle. Unfortunately,
+any wizards or creatures that you have killed will also be
+reincarnated. If you were carrying the Enchanted Chalice, it will return
+to the room that it was originally in.
+If you have finished one game or wish to start a new game, depress the game reset
+switch.
+
+DIFFICULTY SWITCHES
+
+When the left difficulty switch is in the A (pro) position, you will get five lives. When it is
+in the B (amateur) position, you will get ten lives. You lives are displayed in the lower
+left corner.
+When the right difficulty switch is in the A (pro) position, you will play a timed game. A
+timer bar will tick down in the lower right corner. When this counter reaches zero, the
+game is over. When the switch is in the B (amateur) position, you will have unlimited
+time.
+
+
+SKILL LEVELS
+
+Level 1
+This Kingdom is the easiest skill level. When you push the red controller button to begin
+play, you will see the fire staff locked in the Golden Castle. Move down to the next room
+to get the Golden Key to open the Golden Castle. You can now explore the Kingdom
+while being able to defend yourself. On this level, the red wizard cannot cast fireballs
+and there are no creatures.
+
+Level 2
+This Kingdom has items that are more difficult to find. The red wizard can now cast
+fireballs. His new creature may appear as well...
+
+Level 3
+This Kingdom is the hardest and has items in random positions. The red wizard can
+cast fireballs, and he has multiple apprentices. The new creature may appear as well.
+
+Speed EMR!
+To play any level in this "beat the clock" mode, switch the right difficulty switch to A
+(pro). You must return the Enchanted Chalice to the Golden Castle before the bar in
+right lower corner disappears. The red wizard will not cast fireballs in this mode. You
+will need to move quickly and gather items efficiently in order to win!
