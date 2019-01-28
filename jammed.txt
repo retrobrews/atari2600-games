@@ -1,0 +1,91 @@
+                                    -----------
+                                    J A M M E D
+
+                                     (C) 2001
+
+                                  Thomas Jentzsch
+
+
+THE GAME
+--------
+It was love on first sight. Barely 20 years old she stood in the crowd,
+drawing all the looks in her breathtaking yellow designerdress. From that
+moment you didn't care for any other, you just had eyes for her. You just
+knew she would soon be yours.
+
+But you still can't afford her, so you will simply take her tonight.
+Silently you sneak to her room and cautiously open the door. Then you see
+her, that sleek italian! You will brush aside everything that stands between
+you and her and then you will flee with her, with this dream of a ...used
+sports car!
+
+Move all the other cars out of the way to steal your dream car out of the lot.
+
+
+PLAYING THE GAME
+----------------
+Jammed consists of 600 puzzles which are organized in 6 difficulty levels
+of 100 puzzles each. With the joystick you can move the cursor and the
+firebutton moves the selected car in the indicated direction.
+
+
+SWITCHES
+--------
+RESET            = restart puzzle
+SELECT           = select level
+FIRE+SELECT      = select random puzzle in current level
+LEFT DIFFICULTY  = cursor mode
+RIGHT DIFFICULTY = switch between NTSC and PAL settings
+
+
+DISPLAY
+-------
+The counter on the left hand displays the number of moves. It starts with
+the minimally required number of moves in the negative and increases.
+If the level ends with the counter displaying 00, the puzzle is solved
+perfectly.
+
+The counter on the right hand indicates the current puzzle (0..599).
+The first digit also signifies the level of difficulty (0..5).
+
+
+ACKNOWLEDGMENTS
+---------------
+JAMMED is based on the board game Rush Hour from Binary Arts.
+
+This game would not have been possible without valuable support of the members of
+Stellalist, the Atari 2600 programmers mailing list:
+
+                        www.biglist.com/lists/stella
+
+Special thanks to Brian Prescot ("Crazy Valet", http://web.tampabay.rr.com/bprescot)
+for inspiration and Eckhard Stollberg for testing.
+
+Thank you all!
+
+
+LEGAL STUFF
+-----------
+JAMMED (C) 2001 Thomas Jentzsch.
+This game is copyrighted. You can't distribute JAMMED on Atari 2600 cartridges
+without my explicit permission. Thomas Jentzsch makes no guarantees, written or
+implied, on this software. I'm not responsible for any damage due to the use of
+this software.
+
+
+MISC
+----
+JAMMED has been developed and tested with z26 by John Saeger. It does not(!) work
+with emulators that don't support illegal opcodes, like Stella (1.1), StellaX
+(1.1.3) and the windows version of PCAE (2.5).
+
+You can buy Atari 2600 cartridges at Atariage:
+
+                     http://www.atariage.com/store
+
+
+Please send any comments, questions, or suggestions to:
+
+                     tjentzsch@yahoo.de
+
+Enjoy!

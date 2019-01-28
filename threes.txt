@@ -1,0 +1,23 @@
+THREE·S  [three.s (v1.02).bin]
+by Thomas Jentzsch
+10 Aug 2018 - 10:23 PM
+
+Note: Rules for my Threes! variant (called THREE·S = 3 dots):
+
+    A new game starts with RESET
+    Move the joystick to shift the tiles by one
+    Press fire for undo (once!)
+    '.' can only merged with ':'; resulting into a 0
+    Digits with the same number can be merged, resulting into the next higher digit
+    Whenever tiles are moved a new tile is created
+    The new tile appears at an empty space in the column/row opposite to the move direction 
+    Initially the new tile can only be a '.', ':' or '0'
+    After you reached a '4' you will sometimes get a higher bonus tile, which is between '1' and your highest tile number / 4.
+    You get points for merging tiles, scores tripple for each higher number
+    The game ends when no tile can be moved
+
+
+http://atariage.com/forums/blog/144/entry-10900-three%e2%88%99s-was-211-2048/
+Please send any comments, questions, or suggestions to:
+tjentzsch@yahoo.de
+Enjoy!
