@@ -73,6 +73,18 @@
      <players>1</players>
    </game>
    <game>
+     <path>./jammed.bin</path>
+     <name>Jammed</name>
+     <desc>Move all the other cars out of the way to steal your dream car out of the lot. Jammed consists of 600 puzzles which are organized in 6 difficulty levels of 100 puzzles each. With the joystick you can move the cursor and the firebutton moves the selected car in the indicated direction. JAMMED is based on the board game Rush Hour from Binary Arts.</desc>
+     <image>./jammed.png</image>
+     <rating>0</rating>
+     <releasedate>20021216T000000</releasedate>
+     <developer>Thomas Jentzsch</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Jammed</genre>
+     <players>1</players>
+   </game>
+   <game>
      <path>./kellykangaroo.bin</path>
      <name>Kelly Kangaroo</name>
      <desc>Kelly the kangaroo is enjoying a lovely picnic date with Rosie the rabbit in the picturesque Mossy Valley when - Oh no!  The mad scientist Contemptus Mundy, always bitter and jealous of the happy people living on Gaia Gaia Island, has kidnapped Rosie and locked her away in his motherbase in the clouds! It's up to you to help Kelly save her sweetheart before it's too late and that vile Contemptus whisks her away to the stars.</desc>
@@ -118,6 +130,30 @@
      <developer>Jess Ragan</developer>
      <publisher>HOMEBREW ROM</publisher>
      <genre>Solar Plexus</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./threes.bin</path>
+     <name>Three.s</name>
+     <desc>A port of the 2048 game to the Atari 2600. Original name: 2^11 (2048). You get points for merging tiles, scores tripple for each higher number. The game ends when no tile can be moved.</desc>
+     <image>./threes.png</image>
+     <rating>0</rating>
+     <releasedate>20140810T000000</releasedate>
+     <developer>Thomas Jentzsch</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Three.s [v.1.02]</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./thrust.bin</path>
+     <name>Thrust</name>
+     <desc>The resistance is about to launch a major offensive against the Intergalactic Empire. In preparation for this, they have captured several battle-grade starships, but they lack the essential power sources for these formidable craft; Klystron Pods. You have been commissioned by the resistance to steal these pods from the Empire's storage planets. Each planet is defended by a battery of "Limpet" guns, powered by a nuclear power plant. By firing shots at the power plant, the guns can be temporarily disabled; the more shots fired at the nuclear reactor, the longer the guns will take to recharge. BUT BEWARE!! If you fire too many shots at the reactor, it will become critical, giving you just ten seconds to clear the planet before it is destroyed. If you have not already retrieved the pod stored at that planet, then you will have failed the mission. If you have retrieved the pod, and you manage to send the reactor into its critical phase, and leave the planet safely, you will receive a hefty bonus. Further into the Empire's system, you will encounter planets with REVERSE GRAVITY and something even more deadly...</desc>
+     <image>./thrust.png</image>
+     <rating>0</rating>
+     <releasedate>20040609T000000</releasedate>
+     <developer>Thomas Jentzsch</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Thrust [v.1.27]</genre>
      <players>1</players>
    </game>
    <game>
