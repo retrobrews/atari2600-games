@@ -13,6 +13,30 @@
      <players>1</players>
    </game>
    <game>
+     <path>./bitquest.bin</path>
+     <name>Bit Quest</name>
+     <desc>In Bit Quest, you take the role of a 'bit knight' who must rescue the princess of the bits. She is locked away in an evil castle guarded by dragons (of course!) Explore the world and uncover the locations of dungeons, and save the princess! To aid you in your quest, there is an ancient sword that can be used to attack monsters! (Once you find the sword, use the joystick button to attack!)</desc>
+     <image>./bitquest.png</image>
+     <rating>0</rating>
+     <releasedate>20170811T000000</releasedate>
+     <developer>Brian W. Shea (Metalbabble)</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Bit Quest</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./bitquest2.bin</path>
+     <name>Bit Quest II</name>
+     <desc>Bit Quest II continues the story of Bit Quest. After rescuing the princess, the warrior is captured by the ruthless Baron Von Darkbit! Bit Quest II features an even larger world to explore with many hidden dungeons scattered throughout the many lands. Gameplay is simple! Use the joystick to move the princess, and press the fire button to attack with the sword. Pressing the GAME SELECT switch will display a map and show an inventory of the keys you have found. Pressing the switch again, or hitting the fire button will resume the game. The GAME RESET switch can be used to start the game over at the bit's castle. The left difficulty switch controls how strong some monsters are. On the title screen, press either the fire button or the reset switch to begin a new game. OBJECTIVE: Explore the world, and find the 4 hidden keys to unlock the Baron's castle and rescue the bit warrior! Watch out for monsters and their attacks.</desc>
+     <image>./bitquest2.png</image>
+     <rating>0</rating>
+     <releasedate>20190116T000000</releasedate>
+     <developer>Brian W. Shea (Metalbabble)</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Bit Quest II v.14</genre>
+     <players>1</players>
+   </game>
+   <game>
      <path>./dkarcade2600.bin</path>
      <name>DK Arcade 2600</name>
      <desc>Save Lady Pauline! Points are awarded for jumping over obstacles, destroying objects with the hammer, completing levels and collecting various items. This playable demo features all four levels but will end after the rivet level (Level 4).</desc>
@@ -46,6 +70,30 @@
      <developer>Byte Knight</developer>
      <publisher>HOMEBREW ROM</publisher>
      <genre>Evil Magician Returns II</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./fishy.bin</path>
+     <name>Fishy</name>
+     <desc>For one or two players - whichever fish collects 5 points first, wins. Grab the power-ups to transform!</desc>
+     <image>./fishy.png</image>
+     <rating>0</rating>
+     <releasedate>20171231T000000</releasedate>
+     <developer>Brian W. Shea (Metalbabble)</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Fishy v.2</genre>
+     <players>1-2</players>
+   </game>
+   <game>
+     <path>./flappy_the_duck.bin</path>
+     <name>Flappy the Duck</name>
+     <desc>Tap to flap! Use the joystick button to flap, but don't hit the walls. Grab hearts for extra points. This game features two difficulty levels (via left switch.)</desc>
+     <image>./flappy_the_duck.png</image>
+     <rating>0</rating>
+     <releasedate>20181231T000000</releasedate>
+     <developer>Brian W. Shea (Metalbabble)</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Flappy the Duck</genre>
      <players>1</players>
    </game>
    <game>
@@ -97,6 +145,42 @@
      <players>1</players>
    </game>
    <game>
+     <path>./nanowing.bin</path>
+     <name>NanoWing 2600</name>
+     <desc>A prequel to the 2005 metalbabble.com game "NanoWing" - avoid the obstacles while hurdling through hyperspace!</desc>
+     <image>./nanowing.png</image>
+     <rating>0</rating>
+     <releasedate>20171231T000000</releasedate>
+     <developer>Brian W. Shea (Metalbabble)</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>NanoWing 2600</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./neko_2600.bin</path>
+     <name>Neko 2600</name>
+     <desc>A small experiment/game with gravity and simple ball physics. Hold left or right to pick a direction, then press the fire button to launch a ball.Aim for the moving targets below to rack up the points. Use the "Game Select" switch to select levels.</desc>
+     <image>./neko_2600.png</image>
+     <rating>0</rating>
+     <releasedate>20181231T000000</releasedate>
+     <developer>Brian W. Shea (Metalbabble)</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Neko 2600</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./pothole.bin</path>
+     <name>PotHole</name>
+     <desc>Dodge the potholes, and collect the power ups!</desc>
+     <image>./pothole.png</image>
+     <rating>0</rating>
+     <releasedate>20171231T000000</releasedate>
+     <developer>Brian W. Shea (Metalbabble)</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>PotHole</genre>
+     <players>1</players>
+   </game>
+   <game>
      <path>./roboninjaclimb.bin</path>
      <name>Robo-Ninja Climb</name>
      <desc>Robo-Ninja is at it again, this time practicing his climbing and jumping skills before setting out to save the world. In this NES game, you climb and dodge spikes, navigating 5 levels of obstacles.</desc>
@@ -115,9 +199,21 @@
      <image>./runtysrevenge.png</image>
      <rating>0</rating>
      <releasedate>20181015T000000</releasedate>
-     <developer>Guillermo Gee</developer>
+     <developer>Guillermo Gee (Squidsee)</developer>
      <publisher>HOMEBREW ROM</publisher>
      <genre>Runty's Revenge</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./sandcastles.bin</path>
+     <name>Sand Castles</name>
+     <desc>Jump and shoot the enemies to clear each level - but don't take too long or you'll get chased by the "reaper". Left difficulty switch controls game difficulty, right switch turns music on/off. This game is also compatible with SEGA Genesis controllers!</desc>
+     <image>./sandcastles.png</image>
+     <rating>0</rating>
+     <releasedate>20171126T000000</releasedate>
+     <developer>Brian W. Shea (Metalbabble)</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Sand Castles</genre>
      <players>1</players>
    </game>
    <game>
@@ -130,6 +226,18 @@
      <developer>Jess Ragan</developer>
      <publisher>HOMEBREW ROM</publisher>
      <genre>Solar Plexus</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./stardust.bin</path>
+     <name>Stardust</name>
+     <desc>Explore the galaxy, zap aliens, blast asteroids, uncover the locations of distant planets, and defeat the evil forces of the mysterious Dark Queen.</desc>
+     <image>./stardust.png</image>
+     <rating>0</rating>
+     <releasedate>20180115T000000</releasedate>
+     <developer>Brian W. Shea (Metalbabble)</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Stardust</genre>
      <players>1</players>
    </game>
    <game>
