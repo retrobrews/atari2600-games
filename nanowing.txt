@@ -1,0 +1,5 @@
+NanoWing 2600 (nanowing_2600.bin)
+by Brian W. Shea (Metalbabble)
+2017
+
+A prequel to the 2005 metalbabble.com game "NanoWing" - avoid the obstacles while hurdling through hyperspace!

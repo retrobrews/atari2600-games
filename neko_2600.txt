@@ -1,0 +1,6 @@
+Neko 2600 (neko_2600.bin)
+by Brian W. Shea (Metalbabble)
+2018
+
+A small experiment/game with gravity and simple ball physics. Hold left or right to pick a direction, then press the fire button to launch a ball. 
+Aim for the moving targets below to rack up the points. Use the "Game Select" switch to select levels.

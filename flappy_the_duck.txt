@@ -1,0 +1,7 @@
+Flappy the Duck (flappy_the_duck.bin)
+by Brian W. Shea (Metalbabble)
+2018
+
+Tap to flap! Use the joystick button to flap, but don't hit the walls. 
+Grab hearts for extra points. 
+This game features two difficulty levels (via left switch.)

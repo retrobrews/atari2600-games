@@ -1,0 +1,102 @@
+Stardust (stardust_2600_v12.bin)
+by Brian W. Shea (Metalbabble)
+Mon Jan 15, 2018
+
+http://atariage.com/forums/topic/274243-stardust-new-homebrew/?hl=%2Bstardust
+
+Explore the galaxy, zap aliens, blast asteroids, 
+uncover the locations of distant planets, and 
+defeat the evil forces of the mysterious Dark Queen.
+
+Nominated for best bb homebrew in the 2018 atari awards.
+
+The Story
+Deep in distant space, intergalactic war has broken out! The dark queen
+has sent her most notorious generals to overtake planets in the
+peaceful alliance system.
+Your mission is to travel to these worlds, defeat the generals, and
+return safely to the star base!
+
+THANK YOU FOR PLAYING STARDUST FOR ATARI 2600
+
+The Dark Queen’s Army
+Clone Invader
+An alien lifeform capable of making multiple copies of itself. Its species
+replicates and spreads like locust throughout the galaxy.
+LIKES: Space Exploration
+DISLIKES: Laser Blasts
+
+Robot 07-PT prime
+Once a bounty hunter, now a cunning warrior for the dark queen used for
+special Ops.
+LIKES: Complex binary operations
+DISLIKES: Cold weather
+
+Graviton
+A giant sentient blob of mass that produces gravity waves to stun its enemies.
+Graviton is capable of digesting small planets by collapsing their mass with its
+gravity.
+LIKES: Star Gazing
+DISLIKES: Dieting
+
+Star fighter pilots will be rewarded with powerups and upgrades for the defeat of these
+nefarious characters!
+
+How to Play
+On your mission, you will be in control of a cruiser-class space
+fighter. Use the joystick to maneuver the ship through space, using your
+navigation computer as a guide. In space, you will encounter asteroids,
+space debris, and even hostile alien combatants.
+Upon reaching the planets of the alliance system you will enter
+into a battle with the invading general.
+The cruiser ship is equipped with powerful laser torpedoes and a
+shield system. If the cruiser comes in contact with enemies or asteroids
+the shield will take damage. If the shield health is completely depleted,
+your ship will be destroyed and the mission will fail.
+While fighting the generals, you will see their health meter on the
+lower-right of the screen. If you defeat a general you will receive a
+power up bonus. After defeating all of the generals, report back to the
+starting base planet to complete your mission!
+
+
+Controls
+Joystick – Movement (Note that in battle mode, movement is
+horizontal only.)
+Fire button – Fires laser torpedoes. Also used to start a new game.
+
+
+Use the reset switch to start, or restart the game.
+
+
+
+Power ups
+Here are some of the power up rewards for defeating the evil queen’s
+generals…
+? Hologram generator – creates a hologram ship that fights by your
+side.
+? Double-hologram generator – creates two ships that fight by your
+side.
+? Extra points & shield power – Your shield is upgraded and can
+take additional hits.
+
+
+Tips
+? After taking damage from an enemy you will be invincible for a
+few moments – take advantage of this!
+? Watch out! If the cruiser comes into contact with a general, the
+cruiser will be instantly destroyed.
+? Return to the base to repair your shields.
+? Due to their orbit, the location of the planets will change with
+each new game.
+? While traveling in space, note that the navigation computer
+represents 4 adjacent screens with one dot on the map.
+? Space contains mysterious “dark matter” which will produce
+different effects when encountered. Sometimes asteroids will
+produce dark matter when destroyed.
+
+STARDUST
+Created by Brian Shea
+http://www.metalbabble.com/
+
+Manual: http://brianwayneshea.com/atari/stardust_manual.pdf
+http://atari.metalbabble.com/

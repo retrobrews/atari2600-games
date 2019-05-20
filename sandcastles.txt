@@ -1,0 +1,92 @@
+Sand Castles (sandcastles.bin)
+by Brian W. Shea (Metalbabble)
+2017/11/26
+
+
+Thank you for downloading Sand Castles for Atari 2600!
+
+"sandcastles.bin" is the game's ROM file and should be playable in many 
+Atari 2600 VCS emulators such as Stella (available here: https://stella-emu.github.io/)
+
+For details on gameplay, please view the included manual PDF. In summary: 
+jump and shoot the enemies to clear each level - but don't take too long or 
+you'll get chased by the "reaper". Left difficulty switch controls game 
+difficulty, right switch turns music on/off. This game is also compatible with SEGA Genesis controllers!
+
+If you are interested in obtaining a physical copy of Sand Castles, or 
+any of my Atari 2600 games - please contact me via metalbabble.com 
+
+Have fun!
+-------------------------------------
+http://www.metalbabble.com/
+
+
+PDF:
+The Story
+Monsters have invaded Sandcastle
+island, home of Jack the apple. Your
+mission is to defeat the monsters and
+their ruthless leader.
+Run, jump, and shoot your way
+through the world of SAND CASTLE. In
+each level you will be faced with new
+challenges and monsters to defeat –
+but don’t take too long, or the reaper 
+will appear and chase you…
+Good luck!
+
+
+The World of SAND CASTLE
+? Levels 1-4: Sunset beach
+? Levels 5-9: McIntosh mountains
+? Levels 10-14: The Cortland caverns
+? Levels 15-19: Sand castles in the sky
+? Levels 20+ ????
+
+THANK YOU FOR PLAYING SANDCASTLES FOR ATARI 2600
+
+How to Play
+Shoot apple seeds at the monsters to defeat them. Defeat all the
+monsters in the level to progress to the next level.
+On the bottom-right of the screen is a health bar. If you come in
+contact with an enemy, the health bar will be decreased. If the health
+bar is completely emptied, or you fall off the screen - you will lose a life.
+
+Game Modes
+? Use the RIGHT difficulty switch to enable or disable music. (A=off,
+B=on)
+? Use the LEFT difficulty switch to control game difficulty.
+(A=Advanced, B=Beginner)
+Difficulty A:
+? Health is not restored between levels
+Difficulty B:
+? Health is restored between each level
+? Long time before the reaper appears!
+
+
+Controls
+“SAND CASTLES” supports both traditional Atari 2600 joysticks and
+SEGA Genesis controllers!
+
+Joystick Controls
+Left/Right – Move
+Up – Jump
+Fire button – Shoot apple seed bullets
+
+SEGA Genesis Controls
+Left/Right – Move
+B Button - Fire
+C Button – Jump
+
+Tips
+? After taking damage from an enemy you will be invincible for a
+few moments – take advantage of this!
+? Some shorter enemies are harder to hit, try jumping and shooting
+from a lower position.
+? At the end of each level, bonus points are awarded. More points
+are awarded if you finish the level in less time, and with a fuller
+health bar.
+
+SAND CASTLES
+Created by Brian Shea
+http://www.metalbabble.com/

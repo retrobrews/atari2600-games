@@ -1,0 +1,104 @@
+Bit Quest II (bitquest2.v14.bin)
+by Brian W. Shea (Metalbabble)
+2019/01/16
+Copyright 2019 Brian Shea / metalbabble.com
+http://atariage.com/forums/topic/286977-bit-quest-ii-new-homebrew/
+
+INTRODUCTION
+Bit Quest II continues the story of Bit Quest. After rescuing the princess,
+the warrior is captured by the ruthless Baron Von Darkbit! The bit
+princess must now wield the ancient sword and rescue her friend from
+the evil Baron's dark castle. However, the Baron has locked his castle
+with 4 magical keys which must be found if the princess is to succeed in
+her quest.
+
+THE WORLD OF BIT QUEST II
+Bit Quest II features an even larger world to explore with many hidden
+dungeons scattered throughout the many lands. The world is broken up
+into several major areas: the southern shore, the forest, the desert, the
+mountains, and the icy summit. The evil Baron Von Darkbit's castle is
+located on the icy summit behind a maze of ice. Each area has hidden
+dungeons and monsters that reside there.
+
+HOW TO PLAY
+• Gameplay is simple! Use the joystick to move the princess, and
+press the fire button to attack with the sword.
+• Pressing the GAME SELECT switch will display a map and show an
+inventory of the keys you have found. Pressing the switch again,
+or hitting the fire button will resume the game.
+• The GAME RESET switch can be used to start the game over at the
+bit's castle.
+• The left difficulty switch controls how strong some monsters are.
+• On the title screen, press either the fire button or the reset switch
+to begin a new game.
+
+OBJECTIVE
+Explore the world, and find the 4 hidden keys to unlock
+the Baron's castle and rescue the bit warrior! Watch out
+for monsters and their attacks. Your health is
+represented as hearts on the bottom of the screen, each
+hit will reduce the hearts by 1. Hearts can be restored with power ups,
+and the maximum amount of hearts can be increased with special items
+as well.
+
+SUB-SCREEN
+Pressing the Game Select switch will display a sub-screen. On the subscreen
+you can review your current map position, along with seeing
+which keys you have found so far in your quest. Pressing the Game
+Select switch or fire button will return you to the game.
+
+DUNGEONS
+Dungeons contain some of the strongest
+monsters, but also important items.
+Every dungeon is laid out differently;
+don't get lost!
+
+GAME OVER!
+If you run out of hearts, a warning beep will sound. If you take any
+additional hits, it's GAME OVER! On the red game over screen you can
+press the joystick button to start back at the bits' castle (keeping your
+current items), or use the reset switch to start a new game.
+
+POWER UPS
+Health-ball: Sometimes enemies will drop one when defeated, restores 1 heart
+Cherries: Completely restores all hearts
+Magic Key: There are 4 keys hidden throughout the world, get all 4 to unlock the final dungeon!
+Heart Upgrade: Increases your maximum hearts by one.
+
+ACHIEVEMENTS TO UNLOCK
+For an extra challenge, you can receive achievement crowns by
+completing Bit Quest II while meeting certain requirements. You can
+win up to three crowns...
+
+Achievement 1: “The no-hitter” Make it through the adventure without taking any damage.
+Achievement 2: “Catch ‘em all” Find every item in every dungeon.
+Achievement 3: “Minimalism” Complete the game by traveling through the least amount of screens as possible.
+
+
+CAN YOU UNLOCK ALL THREE?
+
+Additional Information
+• Bit Quest II is compatible with any Atari 2600 VCS emulator that
+supports DPC+ emulation, such as Stella (Available at:
+https://stella-emu.github.io/ )
+• The original Bit Quest is also available at
+http://atari.metalbabble.com/
+
+Thank you for playing Bit Quest II for Atari 2600!
+BIT QUEST II
+Created by Brian Shea
+http://www.metalbabble.com/
+
+
+
+
+
+
+Change log
+
+v1.0 - Initial release 1/11/19
+v1.1 - Fixed frame count issue between screen transitions
+v1.2 - Introduced map sub-screen (use game select switch)
+v1.3 - Fixed sub-screen wall break glitch
+v1.3.1 - Included full color manual
+v1.4 - Introduced achievements (see manual for details)

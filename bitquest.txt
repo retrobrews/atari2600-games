@@ -1,0 +1,21 @@
+BIT QUEST (bitquest.bin)
+By Brian Shea Copyright 2017 metalbabble.com
+2017/08/11
+
+GETTING STARTED
+Bit Quest is an action-adventure game for Atari 2600 VCS.
+The .bin file is an Atari 2600 ROM file that can be played in your favorite Atari 2600 emulator. If you are looking for an emulator to try, check out Stella:  https://stella-emu.github.io/
+Bit Quest is also available on a physical game cartridge that can play on a real Atari 2600 system; if you are interested – please email brian@metalbabble.com
+
+HOW TO PLAY
+In BIT QUEST, you take the role of a “bit knight” who must rescue the princess of the bits. She is locked away in an evil castle guarded by dragons (of course!) Explore the world and uncover the locations of dungeons, and save the princess!
+To aid you in your quest, there is an ancient sword that can be used to attack monsters! (Once you find the sword, use the joystick button to attack!)
+
+BITS AND TIPS
+The overworld has many regions including: grass lands, deserts, volcanos, and snowy fields. Every region has different monsters that dwell there!
+The locations of the sword and dungeons are randomized based on the left difficulty switch. 
+A = The locations will be randomized each game
+B = The locations will always be the same
+Watch the health bar! Every hit you take will reduce your hearts by 1; when they are entirely empty – it’s game over! Sometimes enemies will drop power ups that can recover your hearts.
+
+Have fun & thanks for playing!
